@@ -11,7 +11,7 @@ I'm Hans Tanawi a software engineer specializing in building exceptional digital
 - 👨‍🎓 Computer Science Bachelor from Tunghai University
 - 📫 How to reach me: hanstanawi@gmail.com.
 - ⚡ Interests: Photography, Tennis, Football
-- 📕 Currently learning Golang and Backend Development.
+- 📕 Currently learning React Native, Golang and Backend Development.
 - 📄 [My Resume](./hans-tanawi-resume.pdf)
 
 #### Top Technologies
