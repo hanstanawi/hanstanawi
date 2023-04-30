@@ -12,7 +12,7 @@ I'm Hans Tanawi a software engineer specializing in building exceptional digital
 - 📫 How to reach me: hanstanawi@gmail.com.
 - ⚡ Interests: Photography, Tennis, Football
 - 📕 Currently learning React Native, Golang and Backend Development.
-- 📄 [My Resume](./hans-tanawi-resume.pdf)
+- 📄 [My Resume](./resume.pdf)
 
 #### Top Technologies
 
